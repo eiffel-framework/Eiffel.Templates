@@ -2,7 +2,7 @@
 Eiffel project templates
 
  Eiffel Framework also provides well designed project structures. Project structure directly effects development effort. 
- If you're using Eiffel Framework we storngly recommend using Eiffel Templates. 
+ If you're using Eiffel Framework we strongly recommend using Eiffel Templates. 
 
 ## Single Monolith
 
