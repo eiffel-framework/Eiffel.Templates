@@ -12,6 +12,8 @@ Eiffel project templates
 
 ## Microservices
 
-See also; https://martinfowler.com/bliki/MonolithFirst.html
-• Almost all the successful microservice stories have started with a monolith that got too big and was broken up
-• Almost all the cases where I've heard of a system that was built as a microservice system from scratch, it has ended up in serious trouble.
+See also; https://martinfowler.com/bliki/MonolithFirst.html 
+<ul>
+  <li> Almost all the successful microservice stories have started with a monolith that got too big and was broken up </li>
+  <li> Almost all the cases where I've heard of a system that was built as a microservice system from scratch, it has ended up in serious trouble.</li>
+</ul>
