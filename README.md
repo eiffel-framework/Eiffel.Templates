@@ -2,7 +2,7 @@
 Eiffel project templates
 
  Eiffel Framework also provides well designed project structures. Project structure directly effects development effort. 
- If you're using Eiffel Framework we storngly recommend using Eiffel Templates.
+ If you're using Eiffel Framework we storngly recommend using Eiffel Templates. 
 
 ## Single Monolith
 
@@ -11,3 +11,7 @@ Eiffel project templates
 ## Distributed Monolith
 
 ## Microservices
+
+See also; https://martinfowler.com/bliki/MonolithFirst.html
+• Almost all the successful microservice stories have started with a monolith that got too big and was broken up
+• Almost all the cases where I've heard of a system that was built as a microservice system from scratch, it has ended up in serious trouble.
